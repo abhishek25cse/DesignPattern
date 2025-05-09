@@ -1,5 +1,5 @@
 
-##Software Design Patterns: An Indian Developer’s Perspective
+Software Design Patterns: An Indian Developer’s Perspective
 As a software engineer in India, I often rely on design patterns to solve recurring architecture and coding challenges. Design patterns provide proven templates for creating flexible and maintainable code. In this guide, I explain major Creational, Structural, and Behavioral design patterns from my perspective, and I tie each pattern to Indian tech examples—from UPI payments to Ola cabs and Aadhaar. I’ll describe how I use each pattern, when it’s best applied, and give a real-world Indian analogy or example.
 Creational Patterns
 Singleton Pattern
